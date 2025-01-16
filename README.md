@@ -75,7 +75,7 @@ Ce projet propose une implémentation complète du jeu de société **Khet** en 
 ## Améliorations possibles
 - Ajout d'un mode multijoueur en ligne.
 - Personnalisation des configurations initiales de la grille.
-- Amélioration de l'IA pour des stratégies plus complexes.
+- Voir le déplacement effectué par l'IA sous forme de message. 
 - Ajout de skins ou thèmes pour les pièces et la grille.
 
 ## Contributions
