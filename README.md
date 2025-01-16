@@ -6,7 +6,6 @@ output: github_document
 
 # Khet - Implémentation en Java
 
-![Khet Banner](https://via.placeholder.com/800x200?text=Khet+Java+Game)  
 *Une version interactive du jeu Khet, intégrant réflexion stratégique et lasers !*
 
 ## Description
@@ -30,12 +29,6 @@ Ce projet propose une implémentation complète du jeu de société **Khet** en 
   - Boutons pour chaque case et actions spécifiques.
 - **Fin de partie automatique** : La partie se termine dès que le Pharaon d’un joueur est touché.
 
-## Captures d'écran
-Ajoutez ici des captures d'écran pour montrer :
-- La grille initiale avec les pièces.
-- Un tir de laser en action.
-- L'écran de fin de partie.
-
 ## Comment jouer
 1. **Lancer le jeu** :
    - Exécutez le fichier `Main.java`.
@@ -57,6 +50,14 @@ Ajoutez ici des captures d'écran pour montrer :
 2. Importez le projet dans votre IDE préféré (Eclipse, IntelliJ IDEA, etc.).
 3. Assurez-vous que le répertoire `resources` contient les images des pièces.
 4. Exécutez le fichier `Main.java`.
+
+   ```bash
+   javac *.java
+   ```
+
+   ```bash
+   java Main 
+   ```
 
 ## Technologies utilisées
 - **Java Swing** : Pour l'interface graphique.
