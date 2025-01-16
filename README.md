@@ -45,10 +45,12 @@ Ce projet propose une implémentation complète du jeu de société **Khet** en 
 3. Assurez-vous que le répertoire `resources` contient les images des pièces.
 4. Exécutez le fichier `Main.java`.
 
+- Compilation 
    ```bash
    javac *.java
    ```
 
+- Execution 
    ```bash
    java Main 
    ```
