@@ -79,11 +79,10 @@ Ce projet propose une implémentation complète du jeu de société **Khet** en 
 - Ajout de skins ou thèmes pour les pièces et la grille.
 
 ## Contributions
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, veuillez :
-1. Forker le dépôt.
-2. Créer une branche pour vos modifications :
-   ```bash
-   git checkout -b feature/amélioration
-   ```
-3. Soumettre une **pull request**.
+Abbasi Tahreem 
+Manour Inès 
+Benhamouche Sofia 
+
+M1 BI-IPFB 
+2024-2025
 
