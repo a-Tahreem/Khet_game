@@ -80,7 +80,9 @@ Ce projet propose une implémentation complète du jeu de société **Khet** en 
 
 ## Contributions
 Abbasi Tahreem 
+
 Manour Inès 
+
 Benhamouche Sofia 
 
 M1 BI-IPFB 
