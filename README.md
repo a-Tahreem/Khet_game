@@ -1,9 +1,3 @@
-
----
-title: "Khet - Implémentation en Java"
-output: github_document
----
-
 # Khet - Implémentation en Java
 
 *Une version interactive du jeu Khet, intégrant réflexion stratégique et lasers !*
